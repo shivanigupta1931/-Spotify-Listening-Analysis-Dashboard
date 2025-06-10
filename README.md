@@ -22,17 +22,11 @@ This interactive Power BI dashboard explores listening patterns by day, time, an
 ## 📊 Key Features
 
 ✔️ Total Albums, Artists, and Tracks Played Over Time
-
 ✔️ 📅 Weekday vs Weekend Listening Behavior using a custom DAX logic
-
 ✔️ 🕒 Listening Hours Heatmap — identify peak listening hours by day
-
 ✔️ 🎯 Track Engagement: Average Listening Time vs Frequency (Quadrant Analysis)
-
 ✔️ 🏆 Top 5 Albums, Artists, and Tracks based on play counts
-
 ✔️ 📊 Year-over-Year Comparison: LY vs PY for all music metrics
-
 ✔️ 🔍 Drill-Through Grid View for detailed exploration at the album, artist, and track level
 
 ## 🛠️ Tools & Technologies
